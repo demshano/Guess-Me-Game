@@ -1,0 +1,66 @@
+
+.dots
+{
+    display:flex;
+    position:relative;
+    top:-7px;
+    left:-7px;
+    
+}
+
+
+
+.one
+{
+   
+    top: 24.5px;
+    left:24.5px;
+}
+.two
+{
+    
+    top:10px;
+    left:9px;
+
+}
+.three
+{
+    
+    top:24.5px;
+    left:40px;
+}
+.four
+{
+   
+    left:40px;
+    top:10px;
+}
+.five
+{
+    
+    top:40px;
+    left:9px;
+}
+.six
+{
+    
+    top:24.5px;
+    left:9px;
+}
+.seven
+{
+   
+    top:40px;
+    left:40px;
+}
+
+.one, .two, .three, .four, .five, .six, .seven
+{
+
+    width:6px;
+    height:6px;
+    background-color:rgb(255, 255, 255);  
+    border-radius: 50%;
+    position:absolute;
+
+}
